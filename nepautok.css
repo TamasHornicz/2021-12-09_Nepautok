@@ -19,6 +19,11 @@ p {
 	text-align: justify;
 }
 a {
+	text-decoration: none;
 background-color: lightgray;
+color: darkgray;
 
+}
+a :hover {
+color: chocolate;
 }
