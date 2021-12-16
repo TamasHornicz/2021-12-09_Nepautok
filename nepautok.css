@@ -28,5 +28,13 @@ a :hover {
 color: chocolate;
 }
 .img-box{
-	
+	width: 200px;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px #999;
+}
+.vonal{
+	width: 680px;
+	margin-top: 10px;
+	border: 1px solid black;
 }
